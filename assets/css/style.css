@@ -1,0 +1,49 @@
+/* .item{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    
+}
+
+#drag-elem1{
+    background-color: magenta;
+    
+}
+#drag-elem2{
+    background-color: black;
+}
+#drag-elem3{
+    background-color: blue;
+}
+.drop-elem{
+    width: 500px;
+    height: 300px;
+    background-color: blanchedalmond;
+    float: right;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+ */
+
+ .upload{
+    width: 500px;
+    height: 300px;
+    background-color: gray;
+    border: 2px dotted black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .upload i{
+    font-size: 50px;
+    color: greenyellow;
+    cursor: pointer;
+ }
+
+ img{
+    width: 100px;
+    height: 100px;
+ }
